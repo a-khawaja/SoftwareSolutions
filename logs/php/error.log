@@ -117,3 +117,47 @@
 [29-Dec-2023 22:10:15 UTC] BLOCK: Getting Server Custimizer CSS
 [29-Dec-2023 22:10:15 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v2/get-customizer-css
 [29-Dec-2023 22:10:16 UTC] Blocks are up to date.
+[30-Dec-2023 22:38:12 UTC] PHP Warning:  chmod(): Permission denied in C:\Users\User\Local Sites\softwaresolutions\app\public\wp-content\plugins\simply-static\src\tasks\class-ss-transfer-files-locally-task.php on line 85
+[30-Dec-2023 22:38:12 UTC] PHP Warning:  copy(/index.html): Failed to open stream: Permission denied in C:\Users\User\Local Sites\softwaresolutions\app\public\wp-content\plugins\simply-static\src\tasks\class-ss-transfer-files-locally-task.php on line 91
+[30-Dec-2023 22:38:13 UTC] Sync process for Gutenberg Blocks has started.
+[30-Dec-2023 22:38:13 UTC] CATEGORY: Storing in option ast-block-templates-categories
+[30-Dec-2023 22:38:13 UTC] BLOCK: Requests count 8
+[30-Dec-2023 22:38:13 UTC] BLOCK: Importing request 1 ..
+[30-Dec-2023 22:38:13 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v2/blocks/?page_builder=gutenberg&per_page=30&page=1&wireframe=yes
+[30-Dec-2023 22:38:13 UTC] BLOCK: Storing in option ast-block-templates-blocks-1
+[30-Dec-2023 22:38:14 UTC] BLOCK: Completed request 1
+[30-Dec-2023 22:38:14 UTC] BLOCK: Importing request 2 ..
+[30-Dec-2023 22:38:14 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v2/blocks/?page_builder=gutenberg&per_page=30&page=2&wireframe=yes
+[30-Dec-2023 22:38:14 UTC] BLOCK: Storing in option ast-block-templates-blocks-2
+[30-Dec-2023 22:38:15 UTC] PHP Warning:  copy(/wp-json/wp/v2/pages/393/index.html): Failed to open stream: No such file or directory in C:\Users\User\Local Sites\softwaresolutions\app\public\wp-content\plugins\simply-static\src\tasks\class-ss-transfer-files-locally-task.php on line 91
+[30-Dec-2023 22:38:16 UTC] PHP Warning:  copy(/wp-json/wp/v2/pages/112/index.html): Failed to open stream: No such file or directory in C:\Users\User\Local Sites\softwaresolutions\app\public\wp-content\plugins\simply-static\src\tasks\class-ss-transfer-files-locally-task.php on line 91
+[30-Dec-2023 22:38:16 UTC] PHP Warning:  copy(/wp-json/wp/v2/pages/458/index.html): Failed to open stream: No such file or directory in C:\Users\User\Local Sites\softwaresolutions\app\public\wp-content\plugins\simply-static\src\tasks\class-ss-transfer-files-locally-task.php on line 91
+[30-Dec-2023 22:38:16 UTC] BLOCK: Completed request 2
+[30-Dec-2023 22:38:16 UTC] BLOCK: Importing request 3 ..
+[30-Dec-2023 22:38:16 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v2/blocks/?page_builder=gutenberg&per_page=30&page=3&wireframe=yes
+[30-Dec-2023 22:38:17 UTC] BLOCK: Storing in option ast-block-templates-blocks-3
+[30-Dec-2023 22:38:18 UTC] BLOCK: Completed request 3
+[30-Dec-2023 22:38:18 UTC] BLOCK: Importing request 4 ..
+[30-Dec-2023 22:38:18 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v2/blocks/?page_builder=gutenberg&per_page=30&page=4&wireframe=yes
+[30-Dec-2023 22:38:18 UTC] BLOCK: Storing in option ast-block-templates-blocks-4
+[30-Dec-2023 22:38:19 UTC] BLOCK: Completed request 4
+[30-Dec-2023 22:38:19 UTC] BLOCK: Importing request 5 ..
+[30-Dec-2023 22:38:19 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v2/blocks/?page_builder=gutenberg&per_page=30&page=5&wireframe=yes
+[30-Dec-2023 22:38:19 UTC] BLOCK: Storing in option ast-block-templates-blocks-5
+[30-Dec-2023 22:38:20 UTC] BLOCK: Completed request 5
+[30-Dec-2023 22:38:20 UTC] BLOCK: Importing request 6 ..
+[30-Dec-2023 22:38:20 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v2/blocks/?page_builder=gutenberg&per_page=30&page=6&wireframe=yes
+[30-Dec-2023 22:38:20 UTC] BLOCK: Storing in option ast-block-templates-blocks-6
+[30-Dec-2023 22:38:20 UTC] BLOCK: Completed request 6
+[30-Dec-2023 22:38:20 UTC] BLOCK: Importing request 7 ..
+[30-Dec-2023 22:38:20 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v2/blocks/?page_builder=gutenberg&per_page=30&page=7&wireframe=yes
+[30-Dec-2023 22:38:21 UTC] BLOCK: Storing in option ast-block-templates-blocks-7
+[30-Dec-2023 22:38:21 UTC] BLOCK: Completed request 7
+[30-Dec-2023 22:38:21 UTC] BLOCK: Importing request 8 ..
+[30-Dec-2023 22:38:21 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v2/blocks/?page_builder=gutenberg&per_page=30&page=8&wireframe=yes
+[30-Dec-2023 22:38:22 UTC] BLOCK: Storing in option ast-block-templates-blocks-8
+[30-Dec-2023 22:38:22 UTC] BLOCK: Completed request 8
+[30-Dec-2023 22:38:22 UTC] Sync process for Gutenberg Blocks is done.
+[30-Dec-2023 22:38:22 UTC] BLOCK: Getting Server Custimizer CSS
+[30-Dec-2023 22:38:22 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v2/get-customizer-css
+[30-Dec-2023 22:38:24 UTC] Blocks are up to date.
