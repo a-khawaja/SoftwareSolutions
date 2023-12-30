@@ -161,3 +161,8 @@
 [30-Dec-2023 22:38:22 UTC] BLOCK: Getting Server Custimizer CSS
 [30-Dec-2023 22:38:22 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v2/get-customizer-css
 [30-Dec-2023 22:38:24 UTC] Blocks are up to date.
+[30-Dec-2023 23:00:06 UTC] PHP Warning:  chmod(): Permission denied in C:\Users\User\Local Sites\softwaresolutions\app\public\wp-content\plugins\simply-static\src\tasks\class-ss-transfer-files-locally-task.php on line 85
+[30-Dec-2023 23:00:06 UTC] PHP Warning:  copy(/index.html): Failed to open stream: Permission denied in C:\Users\User\Local Sites\softwaresolutions\app\public\wp-content\plugins\simply-static\src\tasks\class-ss-transfer-files-locally-task.php on line 91
+[30-Dec-2023 23:00:10 UTC] PHP Warning:  copy(/wp-json/wp/v2/pages/497/index.html): Failed to open stream: No such file or directory in C:\Users\User\Local Sites\softwaresolutions\app\public\wp-content\plugins\simply-static\src\tasks\class-ss-transfer-files-locally-task.php on line 91
+[30-Dec-2023 23:00:10 UTC] PHP Warning:  copy(/wp-json/wp/v2/pages/113/index.html): Failed to open stream: No such file or directory in C:\Users\User\Local Sites\softwaresolutions\app\public\wp-content\plugins\simply-static\src\tasks\class-ss-transfer-files-locally-task.php on line 91
+[30-Dec-2023 23:00:10 UTC] PHP Warning:  copy(/wp-json/wp/v2/posts/1/index.html): Failed to open stream: No such file or directory in C:\Users\User\Local Sites\softwaresolutions\app\public\wp-content\plugins\simply-static\src\tasks\class-ss-transfer-files-locally-task.php on line 91
